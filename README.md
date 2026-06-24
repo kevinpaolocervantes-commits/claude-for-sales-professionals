@@ -1,33 +1,49 @@
-# Claude for Sales
+# Claude for Sales Professionals
 
-A practical guide for sales professionals using Claude to prospect smarter, write better, research accounts, prepare for calls, and manage pipeline more effectively.
+Practical workflows, prompts, and Claude Code playbooks for modern sales professionals.
 
-## Who this is for
+## Why This Repository Exists
 
-- Account Executives
-- SDRs / BDRs
-- Sales Managers
-- RevOps teams
-- Founders doing sales
+AI is rapidly becoming part of the modern sales stack.
 
-## What You'll Find
+This repository documents practical ways sales professionals can use Claude and Claude Code to:
 
-- Prospecting prompts
-- Account research workflows
-- Discovery call prep
-- Email and LinkedIn message examples
-- Objection handling prompts
-- Deal strategy frameworks
-- Weekly Claude tips for salespeople
+- Research accounts
+- Prepare for discovery calls
+- Analyze opportunities
+- Generate executive briefs
+- Build territory plans
+- Automate repetitive work
+- Learn AI-powered workflows
 
-## Start Here
+The goal is not to replace salespeople.
 
-1. [Account Research Prompt](prompts/account-research.md)
-2. [Cold Email Generator](prompts/cold-email.md)
-3. [Discovery Call Prep](prompts/discovery-call-prep.md)
+The goal is to help salespeople operate at a higher level.
 
-## Why This Exists
+## Repository Structure
 
-Salespeople do not need more generic AI advice.
+/prompts
+/workflows
+/claude-code
+/examples
 
-They need practical workflows that help them understand buyers, personalize outreach, prepare better, and move faster without sounding robotic.
+## Featured Workflows
+
+### Account Research
+Generate executive-level account briefs in minutes.
+
+### Opportunity Analysis
+Identify risks, blockers, and next steps in active deals.
+
+### Territory Planning
+Segment accounts and prioritize outreach.
+
+### Call Preparation
+Create personalized discovery plans before meetings.
+
+### Pipeline Reviews
+Analyze deal health and forecast risk.
+
+## Contributing
+
+New workflows, prompts, and examples are added regularly as part of an ongoing learning journey into AI-assisted sales.
